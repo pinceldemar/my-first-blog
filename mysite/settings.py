@@ -25,7 +25,7 @@ SECRET_KEY = 'dns3(rmlg-vlmv=c!hft(&m!y6#6l_(9y9glg7gd80il^a#@a@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<tu-usuario>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pinceldemar.pythonanywhere.com']
 
 
 
